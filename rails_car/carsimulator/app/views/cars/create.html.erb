@@ -1,0 +1,11 @@
+<h1>Your car is a:</h1><br/>
+<h2>Make: <%=@car.make%></h2><br/>
+<h2>Year: <%= @car.model_year%></h2><br/>
+<h2>Speed: <%= @car.speed%></h2>
+<form action="/cars/accelerate" method="get">
+<input type="submit" value="Accelerate"/>
+</form>
+
+<form action="/cars/accelerate" method="get">
+  <input type="submit" value="Brake"/>
+</form>

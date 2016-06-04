@@ -1,0 +1,688 @@
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 11:59:19 -0700
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 13:27:27 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 1783ms (Views: 1775.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 13:28:28 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 214ms (Views: 206.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 13:29:32 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 219ms (Views: 211.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 13:35:18 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 222ms (Views: 214.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 13:35:19 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 13:39:37 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 213ms (Views: 205.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 13:39:37 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 13:40:56 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 218ms (Views: 209.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 13:40:56 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 13:44:00 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 214ms (Views: 206.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 13:44:00 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 13:45:33 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (1.2ms)
+Completed 200 OK in 225ms (Views: 216.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 13:45:33 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+Started GET "/?make=DeLorean&model_year=1985" for 127.0.0.1 at 2016-06-03 13:45:33 -0700
+Processing by CarsController#index as HTML
+  Parameters: {"make"=>"DeLorean", "model_year"=>"1985"}
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 13:55:56 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 215ms (Views: 206.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 13:55:56 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+Started GET "/?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 13:55:56 -0700
+Processing by CarsController#index as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 13:58:15 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 220ms (Views: 211.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 13:58:16 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 13:58:16 -0700
+Processing by CarsController#index as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 13:59:18 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (1.1ms)
+Completed 200 OK in 225ms (Views: 217.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 13:59:18 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+Started GET "/?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 13:59:18 -0700
+Processing by CarsController#index as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:00:33 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 225ms (Views: 216.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:00:34 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 14:00:34 -0700
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:01:06 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 220ms (Views: 211.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:01:06 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 14:01:06 -0700
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:01:42 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 215ms (Views: 206.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:01:42 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 14:01:42 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+Completed 500 Internal Server Error in 102ms (ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:03:14 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 225ms (Views: 216.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:03:15 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 14:03:15 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:06:22 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (1.3ms)
+Completed 200 OK in 214ms (Views: 206.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:06:22 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 14:06:22 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:10:18 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 216ms (Views: 208.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:10:18 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 14:10:18 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.3ms)
+Completed 200 OK in 24ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:11:57 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 222ms (Views: 214.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:11:58 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 14:11:58 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 4ms (Views: 2.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:31:28 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 216ms (Views: 208.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:31:28 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 14:31:28 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 4ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:38:05 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 211ms (Views: 203.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:38:06 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 14:38:06 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:43:26 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 213ms (Views: 205.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:43:26 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 14:43:26 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/cars/create" for 127.0.0.1 at 2016-06-03 14:43:26 -0700
+Processing by CarsController#create as HTML
+  Rendered cars/create.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:50:26 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 211ms (Views: 203.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:50:27 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 14:50:27 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/cars/create" for 127.0.0.1 at 2016-06-03 14:50:27 -0700
+Processing by CarsController#create as HTML
+  Rendered cars/create.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:52:02 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 224ms (Views: 215.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:52:03 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 14:52:03 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 27ms (Views: 3.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:52:03 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:52:34 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (1.4ms)
+Completed 200 OK in 223ms (Views: 214.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:52:34 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 14:52:34 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.5ms)
+Completed 200 OK in 4ms (Views: 3.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:52:34 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 14:52:34 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:53:17 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 210ms (Views: 202.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:53:17 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 14:53:17 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 14:53:17 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 14:53:17 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 15:02:45 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 214ms (Views: 205.9ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 15:02:45 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 15:02:45 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 4ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 15:02:45 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 15:02:45 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 15:06:41 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 215ms (Views: 207.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 15:06:42 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 15:06:42 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 4ms (Views: 2.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 15:06:42 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 15:06:42 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2ms (Views: 1.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 15:58:07 -0700
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 15:58:07 -0700
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 15:58:07 -0700
+  [1m[35m (0.0ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 15:59:09 -0700
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 15:59:09 -0700
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 15:59:09 -0700
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 16:00:15 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 212ms (Views: 204.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 16:00:15 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 16:00:15 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 16:00:15 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 16:00:15 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 16:09:40 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 212ms (Views: 204.3ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 16:09:40 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 16:09:40 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 16:09:40 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 16:09:40 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 16:13:09 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 211ms (Views: 203.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 16:13:10 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 16:13:10 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.7ms)
+Completed 200 OK in 5ms (Views: 3.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 16:13:10 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 16:13:10 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 16:17:56 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 215ms (Views: 207.5ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 16:17:56 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 16:17:56 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 4ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.2ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 16:17:56 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 16:17:56 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+Started GET "/cars/accelerate" for 127.0.0.1 at 2016-06-03 16:17:56 -0700
+Processing by CarsController#accelerate as HTML
+  Rendered cars/create.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 16:33:43 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (1.0ms)
+Completed 200 OK in 212ms (Views: 204.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 16:33:43 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 16:33:43 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 5ms (Views: 3.1ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 16:33:44 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 16:33:44 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+Started GET "/cars/accelerate" for 127.0.0.1 at 2016-06-03 16:33:44 -0700
+Processing by CarsController#accelerate as HTML
+  Rendered cars/create.html.erb within layouts/application (0.6ms)
+Completed 200 OK in 4ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 16:33:44 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.3ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 16:33:44 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.1ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 16:34:37 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.9ms)
+Completed 200 OK in 212ms (Views: 204.7ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 16:34:37 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.0ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 16:34:37 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 4ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 16:34:37 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 16:34:37 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+Started GET "/cars/accelerate" for 127.0.0.1 at 2016-06-03 16:34:37 -0700
+Processing by CarsController#accelerate as HTML
+  Rendered cars/create.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
+  [1m[36m (0.0ms)[0m  [1mbegin transaction[0m
+Started GET "/" for 127.0.0.1 at 2016-06-03 16:34:37 -0700
+Processing by CarsController#index as HTML
+  Rendered cars/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 1ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+Started GET "/cars/create?make=Daewoo&model_year=2000" for 127.0.0.1 at 2016-06-03 16:34:37 -0700
+Processing by CarsController#create as HTML
+  Parameters: {"make"=>"Daewoo", "model_year"=>"2000"}
+  Rendered cars/create.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+Started GET "/cars/accelerate" for 127.0.0.1 at 2016-06-03 16:34:37 -0700
+Processing by CarsController#accelerate as HTML
+  Rendered cars/create.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2ms (Views: 1.2ms | ActiveRecord: 0.0ms)
+  [1m[35m (0.1ms)[0m  rollback transaction
